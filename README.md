@@ -1,6 +1,6 @@
 # Docker template portfolio
 
-Simple NGINX container with customized landing page
+Simple NGINX container with a template for your portfolio !
 
 ## Installation
 
