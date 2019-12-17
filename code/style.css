@@ -2,13 +2,30 @@
     min-height: 150px;
 }
 
-
-
-/* Julien */
-
-.carre{
-    
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: transparent;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  border: 1px solid transparent;
+  background-image: none;
 }
 
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: darkslategrey;
+}
 
-/* Julien */
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: darkslategrey;
+}
+
+.carousel-item{
+    margin-right: -83%;
+}
