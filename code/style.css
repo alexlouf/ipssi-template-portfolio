@@ -70,15 +70,15 @@
 }
 
 .image:nth-child(1) figure{
-	background-image: url('../images/image1.png');
+	background-image: url('./public/img/ordinateurQuantique.jfif');
 }
 
 .image:nth-child(2) figure{
-	background-image: url('../images/image2.png');
+	background-image: url('./public/img/robotHumanoïde.jfif');
 }
 
 .image:nth-child(3) figure{
-	background-image: url('../images/image3.png');
+	background-image: url('./public/img/nanoTechnologie.jfif');
 }
 
 .image:nth-child(4) figure{
